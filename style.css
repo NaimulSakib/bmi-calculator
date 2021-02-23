@@ -1,0 +1,48 @@
+body {
+    padding:0px;
+    margin:0px;
+    background-color:white;
+}
+  div{
+    height: 500px;
+    width: 350px;
+    border-radius: 10px;
+    background-color:white;
+    padding: 10px;
+    position: absolute;
+    top:10px;
+    left:20px;
+    box-shadow:0px 1px 10px red;
+  }
+  h1{
+      text-align:center;
+      text-shadow:0px 1px 10px red;
+  }
+  p{
+      text-align:center;
+      font-size:20px;
+      text-shadow:0px 1px 10px green;
+  }
+  input[type="text"]{
+  
+    font-size:20px;
+    border-radius: 8px;
+    height: 30px;
+    width: 92%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow:0px 1px 10px green;
+  }
+  button{
+  
+    border-radius: 8px;
+    height: 40px;
+    width: 250px;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-size: 22px;
+    box-shadow:0px 1px 10px red;
+  }

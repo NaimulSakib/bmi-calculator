@@ -1,8 +1,13 @@
 body {
-    padding: 0px;
-    margin: 0px;
-    background-color: white;
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+background-image: url('images/jeremy-thomas-FO7bKvgETgQ-unsplash.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
+  
   div{
     height: 450px;
     width: 350px;

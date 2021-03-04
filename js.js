@@ -25,6 +25,6 @@ document.getElementById('r').innerHTML="Your BMI is: "+bmio+" Obese weight";
 }
   else if(bmio>34.5)
 {
-document.getElementById('r').innerHTM="Your BMI is: "+bmio+" Extremely Obese";
+document.getElementById('r').innerHTML="Your BMI is: "+bmio+" Extremely Obese. If you want to live, you should loose your weight";
 }
   }
